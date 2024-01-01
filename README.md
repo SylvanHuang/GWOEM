@@ -1,2 +1,2 @@
-# GWOEM
+# [Energy Reports] A low-complexity evolutionary algorithm for wind farm layout optimization
 This is the Matlab source of GWOEM, corresponding to the paper "Xingwang Huang, Zhijin Wang, Chaopeng Li, Min Zhang. A low-complexity evolutionary algorithm for wind farm layout optimization, Energy Reports, DOI: https://doi.org/10.1016/j.egyr.2023.04.356". Note that the original wind farm layout optimization framework is coded by the authors of: Differential Evolution with A New Encoding Mechanism for Optimizing Wind Farm Layout, IEEE Transactions on Industrial Informatics, Hao Liu and Yong Wang. Thanks for their huge effort.
