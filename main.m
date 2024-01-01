@@ -1,7 +1,7 @@
 %****************************************************************************************************
 % Author: Xingwang Huang
 
-% Declaration: The original wind farm layout optimization framwork is coded by the authors of : 
+% Declaration: The original wind farm layout optimization framework is coded by the authors of: 
 % Differential Evolution with A New Encoding Mechanism for Optimizing Wind Farm Layout, 
 % IEEE Transactions on Industrial InformaticsHao Liu and Yong Wang
 
